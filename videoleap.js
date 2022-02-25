@@ -3,7 +3,7 @@
 VideoLeap unlock Vip by 渤涵
 
 [rewrite_local]
-^https:\/\/api\.lightricks\.com\/subscription url script-response-body buehen0426/Scripts/videoleap/videoleap.js
+^https:\/\/api\.lightricks\.com\/subscription url script-response-body StarryNightThor/shutdown/master/videoleap.js
 
 [MITM]
 hostname = api.lightricks.com
